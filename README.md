@@ -50,8 +50,8 @@ For inquiries or contributions:
 
 • Email: qbit@engsoc.queensu.ca
 
-• Website: qbitqueensu.com
-          labs.cs.queensu.ca/perklab/ 
-          labs.cs.queensu.ca/medilab/
+• Website: [qbitqueensu.com](https://qbitqueensu.com)
+           [labs.cs.queensu.ca/perklab/](https://labs.cs.queensu.ca/perklab/)
+           [labs.cs.queensu.ca/medilab/](https://labs.cs.queensu.ca/medilab/)
 
-**To volunteer, donate, or learn more please visit: burmachildren.com/**
+**To volunteer, donate, or learn more please visit: [burmachildren.com/](https://burmachildren.com/) **
