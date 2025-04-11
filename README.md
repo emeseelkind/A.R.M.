@@ -1,4 +1,4 @@
-# A.R.M. - Above-Elbow 3D-Printed Prosthetic
+# A.R.M. - Above-Elbow 3D-Printed Low-Cost Prosthetic
 
 **Customizable Above-Elbow 3D-Printed Low-Cost Prosthetics**
 
